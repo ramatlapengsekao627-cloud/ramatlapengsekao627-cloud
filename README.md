@@ -15,7 +15,7 @@ Focused on developing practical software solutions and enjoy understanding what 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramatlapengsekao627-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quote
+### Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&symbolColor=ffffff)
 
 
