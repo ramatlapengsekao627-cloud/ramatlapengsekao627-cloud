@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Focused on developing practical software solutions and enjoy understanding what happens behind the code. I’m interested in system design, backend development, databases, and I’m continuously expanding my skills through projects and hands-on development
 
 
