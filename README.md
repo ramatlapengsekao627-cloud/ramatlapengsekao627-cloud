@@ -12,8 +12,6 @@ Focused on developing practical software solutions and enjoy understanding what 
 ![](https://streak-stats.demolab.com/?user=ramatlapengsekao627-cloud&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ramatlapengsekao627-cloud&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ramatlapengsekao627-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&symbolColor=ffffff)
